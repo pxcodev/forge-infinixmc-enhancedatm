@@ -1,6 +1,10 @@
 # Directorios a ignorar
 bubustein-money-20.1/
 
+# Archivos Gradle no utilizados
+build_new.gradle
+build_simple.gradle
+
 # Build outputs
 build/
 out/
