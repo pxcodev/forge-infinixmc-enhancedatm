@@ -1,0 +1,86 @@
+{
+  "exchangeRateLabel": {
+    "offsetX": -20,
+    "offsetY": 10
+  },
+  "gridTotalLabel": {
+    "offsetX": 150,
+    "offsetY": 10
+  },
+  "amountLabel": {
+    "offsetX": -5,
+    "offsetY": 10
+  },
+  "cardBalanceLabel": {
+    "offsetX": 145,
+    "offsetY": 90
+  },
+  "cardSlotLabel": {
+    "offsetX": 100,
+    "offsetY": 113
+  },
+  "titleLabel": {
+    "offsetX": 85,
+    "offsetY": 88
+  },
+  "amountField": {
+    "offsetX": 10,
+    "offsetY": 10,
+    "width": 86,
+    "height": 20
+  },
+  "sourceCurrencyButton": {
+    "offsetX": 100,
+    "offsetY": 10,
+    "width": 30,
+    "height": 20
+  },
+  "targetCurrencyButton": {
+    "offsetX": 140,
+    "offsetY": 10,
+    "width": 30,
+    "height": 20
+  },
+  "depositButton": {
+    "offsetX": 10,
+    "offsetY": 35,
+    "width": 50,
+    "height": 20
+  },
+  "withdrawButton": {
+    "offsetX": 65,
+    "offsetY": 35,
+    "width": 50,
+    "height": 20
+  },
+  "detectMoneyButton": {
+    "offsetX": 125,
+    "offsetY": 35,
+    "width": 45,
+    "height": 20
+  },
+  "conversionArrow": {
+    "offsetX": 132,
+    "offsetY": 15
+  },
+  "denominationGrid": {
+    "offsetX": 28,
+    "offsetY": 99
+  },
+  "playerInventory": {
+    "offsetX": 8,
+    "offsetY": 166
+  },
+  "exchangeRateLabelColor": 16777215,
+  "gridTotalLabelColor": 65280,
+  "amountLabelColor": 16777215,
+  "cardBalanceLabelColor": 16777215,
+  "cardSlotLabelColor": 16777215,
+  "titleLabelColor": 16777215,
+  "showExchangeRateLabel": true,
+  "showGridTotalLabel": true,
+  "showAmountLabel": true,
+  "showCardBalanceLabel": true,
+  "showCardSlotLabel": true,
+  "showTitleLabel": true
+}

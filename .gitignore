@@ -1,0 +1,28 @@
+# Directorios a ignorar
+bubustein-money-20.1/
+
+# Build outputs
+build/
+out/
+*.jar
+*.log
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+
+# OS
+.DS_Store
+Thumbs.db

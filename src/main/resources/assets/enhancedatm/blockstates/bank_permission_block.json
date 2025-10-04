@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "enhancedatm:block/bank_permission_block"
+    }
+  }
+}

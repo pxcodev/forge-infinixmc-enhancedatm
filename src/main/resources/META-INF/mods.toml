@@ -1,0 +1,49 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL="https://github.com/InfinixMC/EnhancedATM/issues"
+
+[[mods]]
+modId="enhancedatm"
+version="1.0.0"
+displayName="Enhanced ATM"
+updateJSONURL="https://github.com/InfinixMC/EnhancedATM/releases/latest"
+displayURL="https://github.com/InfinixMC/EnhancedATM"
+logoFile="logo.png"
+credits="InfinixMC Development Team"
+authors="InfinixMC"
+description='''
+Enhanced ATM adds functional ATM interfaces and currency exchange capabilities to BubusteinMoney mod.
+
+Features:
+- Functional ATM interface with GUI
+- Real-time currency exchange between all supported currencies
+- Transaction history tracking
+- Configurable exchange fees based on card type
+- Daily transaction limits
+- Sound effects and visual feedback
+- Seamless integration with BubusteinMoney mod
+
+This mod requires BubusteinMoney to function properly.
+'''
+
+[[dependencies.enhancedatm]]
+modId="forge"
+mandatory=true
+versionRange="[47.2.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.enhancedatm]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.enhancedatm]]
+modId="bubusteinmoneymod"
+mandatory=true
+versionRange="[5.0.0,)"
+ordering="AFTER"
+side="BOTH"
